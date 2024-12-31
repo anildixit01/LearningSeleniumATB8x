@@ -26,7 +26,7 @@ public class Selenium15 {
 
 
         // Alternate way to maximize
-        //driver.manage().window().maximize();
+       // driver.manage().window().maximize();
 
         // TestNG Assertion
         Assert.assertEquals(driver.getTitle(), "CURA Healthcare Service");

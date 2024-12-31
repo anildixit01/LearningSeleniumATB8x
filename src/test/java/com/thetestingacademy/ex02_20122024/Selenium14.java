@@ -10,8 +10,8 @@ public class Selenium14 {
         EdgeDriver driver = new EdgeDriver();
         //driver.get("sdet.live");
         //driver.get("https://sdet.live");
-        //driver.get("http://sdet.live");
-//        driver.get("www.google.com");
+        driver.get("http://sdet.live");
+       // driver.get("www.google.com");       //not open
 
 
 
