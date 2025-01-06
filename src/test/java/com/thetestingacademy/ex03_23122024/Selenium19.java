@@ -15,8 +15,6 @@ public class Selenium19 {
     @Test
     public void testMethod01() throws Exception {
 
-
-
         EdgeOptions edgeOptions = new EdgeOptions();
         edgeOptions.addArguments("--incognito");
         edgeOptions.addArguments("--start-maximized");
@@ -62,14 +60,7 @@ public class Selenium19 {
 
 
 
-
-
-
-
-
         Thread.sleep(3000);
-
-
 
         driver.quit();
 
