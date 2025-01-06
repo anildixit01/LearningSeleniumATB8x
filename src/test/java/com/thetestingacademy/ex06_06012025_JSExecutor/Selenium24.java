@@ -1,11 +1,9 @@
-package com.thetestingacademy.ex06_JSExecutor;
+package com.thetestingacademy.ex06_06012025_JSExecutor;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 

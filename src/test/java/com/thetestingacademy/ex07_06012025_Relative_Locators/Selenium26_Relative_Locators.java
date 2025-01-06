@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex07_Relative_Locators;
+package com.thetestingacademy.ex07_06012025_Relative_Locators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

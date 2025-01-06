@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex05_Selenium_Xpath;
+package com.thetestingacademy.ex05_03012025_Selenium_Xpath;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -7,8 +7,6 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.util.List;
 
 public class Selenium23 {
 

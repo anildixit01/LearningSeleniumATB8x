@@ -1,14 +1,12 @@
-package com.thetestingacademy.ex07_Relative_Locators;
+package com.thetestingacademy.ex07_06012025_Relative_Locators;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import java.util.List;
 import static org.openqa.selenium.support.locators.RelativeLocator.with;
 
 public class Selenium27_Relative_Locators_P3 {

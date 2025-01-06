@@ -1,7 +1,6 @@
-package com.thetestingacademy.ex07_Relative_Locators;
+package com.thetestingacademy.ex07_06012025_Relative_Locators;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
